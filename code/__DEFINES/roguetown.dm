@@ -19,7 +19,6 @@
 	/datum/species/demihuman,\
 	/datum/species/halforc,\
 	/datum/species/kobold,\
-	/datum/species/anthromorphbig,\
 	/datum/species/goblinp,\
 )
 
@@ -31,7 +30,6 @@
 	/datum/species/aasimar,\
 	/datum/species/lupian,\
 	/datum/species/vulpkanin,\
-	/datum/species/anthromorphbig,\
 	/datum/species/moth,\
 	/datum/species/dracon,
 
@@ -75,7 +73,6 @@
 	/datum/species/dracon,\
 	/datum/species/anthromorph,\
 	/datum/species/anthromorphsmall,\
-	/datum/species/anthromorphbig,\
 	/datum/species/demihuman,\
 	/datum/species/kobold,\
 	/datum/species/goblinp,\
@@ -98,7 +95,6 @@
 	/datum/species/dracon,\
 	/datum/species/anthromorph,\
 	/datum/species/anthromorphsmall,\
-	/datum/species/anthromorphbig,\
 	/datum/species/demihuman,\
 	/datum/species/halforc,\
 	/datum/species/kobold,\
@@ -120,7 +116,6 @@
 	/datum/species/moth,\
 	/datum/species/dracon,\
 	/datum/species/anthromorph,\
-	/datum/species/anthromorphbig,\
 	/datum/species/demihuman,\
 	/datum/species/halforc,\
 )
@@ -137,7 +132,6 @@
 	/datum/species/moth,\
 	/datum/species/dracon,\
 	/datum/species/anthromorph,\
-	/datum/species/anthromorphbig,\
 	/datum/species/demihuman,\
 )
 #define ALL_CLERIC_PATRONS list(/datum/patron/divine/astrata, /datum/patron/divine/noc, /datum/patron/divine/dendor, /datum/patron/divine/necra, /datum/patron/divine/pestra, /datum/patron/divine/eora, /datum/patron/divine/xylix)
